@@ -78,4 +78,3 @@ elif(result.get('dominant_emotion')=='fear'):
 else:
     print("Neutral")
 #print(result)
-#print(result.get('dominant_emotion'))
